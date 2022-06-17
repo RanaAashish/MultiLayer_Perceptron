@@ -7,3 +7,4 @@ This coursework was the part of my internship where i have to code a Multilayer 
 ![image](https://user-images.githubusercontent.com/92665255/174341609-1ad8952d-16c4-454f-b091-51c22cbb2c3a.png)
 ![image](https://user-images.githubusercontent.com/92665255/174341794-d366c68e-20b2-41c0-9605-62d133d47569.png)
 ![image](https://user-images.githubusercontent.com/92665255/174341933-a9e8cc4e-add0-4a66-bfd1-12bf3666a825.png)
+![image](https://user-images.githubusercontent.com/92665255/174342146-38cae075-5fd6-45aa-a982-06ab6a5d1f7b.png)
